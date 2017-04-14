@@ -1,0 +1,24 @@
+#container {
+    margin: 0 auto;
+    width: 100%;
+}
+#mainContainer {
+    float: left;
+    width: 100%;
+}
+#content {
+    clear: left;
+    float: left;
+    width: 65%;
+    padding: 20px 0;
+    margin: 0 0 0 5%;
+    display: inline;
+}
+#sidebar {
+    float: right;
+    width: 20%;
+    padding: 20px 0;
+    margin: 0 2% 0 0;
+    display: inline;
+    background-color: #CCCCCC;
+}
