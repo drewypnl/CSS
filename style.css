@@ -1,7 +1,10 @@
-div {
+.boldText {
     font-weight: bold;
-    font-style: italic;
 }
 span {
     font-style: italic;
+}
+.addBorder{
+    border: 3px double black;
+    padding: 5px;
 }
